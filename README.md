@@ -1,1 +1,4 @@
-gitconfigやvimrcなど環境周りのファイルの情報
+gitconfig
+vimrc
+bashrc
+など環境周りのファイルの情報
